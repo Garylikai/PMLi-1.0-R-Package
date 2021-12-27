@@ -1,6 +1,7 @@
 # PMLi-1.0-R-Package
 AMS 597: Statistical Computing, Spring 2021, May 5, 2021
 
+- Description in a `pdf` file
 - Complete R package is available: `PMLi_1.0.tar.gz`
 - Source code: `r` files
 - Vignette: in `r`, `rmd`, and `html` format
