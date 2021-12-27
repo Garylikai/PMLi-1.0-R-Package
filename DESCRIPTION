@@ -1,0 +1,14 @@
+Package: PMLi
+Type: Package
+Title: AMS 597 Project Partially Matched Samples R Package
+Author: Kai Li
+Maintainer: Kai Li <kai.li@stonybrook.edu>
+Description: AMS 597 Project Spring 2021 R Package on Partially Matched Samples.
+Version: 1.0
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+LazyData: true
+Depends: R (>= 2.10)
+License: file LICENSE
